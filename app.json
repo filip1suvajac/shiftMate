@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "ShiftMate",
+    "slug": "shiftmate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "shiftmate",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F766E"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ]
+  }
+}
