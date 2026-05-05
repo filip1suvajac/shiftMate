@@ -34,22 +34,13 @@ npx expo start
 
 ## Screenshoti
 
-### Dashboard
+<p>
+  <img src="./assets/screenshots/homepage.jpeg" alt="Dashboard" width="230" />
+  <img src="./assets/screenshots/addshift.jpeg" alt="Dodaj smeno" width="230" />
+  <img src="./assets/screenshots/shifts.jpeg" alt="Vse smene" width="230" />
+</p>
 
-![Shifts](./assets/screenshots/homepage.jpeg)
-
-### Dodaj smeno
-
-![Shifts](./assets/screenshots/addshift.jpeg)
-
-### Vse smene
-
-![Shifts](./assets/screenshots/shifts.jpeg)
-
-### Statistika
-
-![Shifts](./assets/screenshots/stats.jpeg)
-
-### Nastavitve
-
-![Shifts](./assets/screenshots/settings.jpeg)
+<p>
+  <img src="./assets/screenshots/stats.jpeg" alt="Statistika" width="230" />
+  <img src="./assets/screenshots/settings.jpeg" alt="Nastavitve" width="230" />
+</p>
